@@ -1,0 +1,4 @@
+name: My Recipes
+markdown: redcarpet
+pygments: true
+baseurl: /my-recipes
